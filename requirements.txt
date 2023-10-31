@@ -7,3 +7,4 @@ plotly
 datetime
 Jinja2
 xgboost
+opencv-python
